@@ -367,8 +367,14 @@ def reverseWord(strword):
         
 word ="Education"
 reverseWord(word)
+print()
         
+print()
 
+def greet(name):
+    return "Hello, " + name
+
+print(greet("Jazzy"))
 
 
 
