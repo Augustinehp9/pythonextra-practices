@@ -1,12 +1,14 @@
 # Python Extra Practices
 
-This repository contains my Python programming exercises.
+A collection of Python exercises focused on core language features and problem solving.
 
 ## Topics
-- Python functions
+
+- Functions
 - Lists
 - Loops
 - Problem-solving exercises
 
 ## Purpose
-To improve my Python programming and Git skills.
+
+These exercises are intended to strengthen Python programming skills and Git workflow.
