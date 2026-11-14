@@ -371,10 +371,9 @@ print()
         
 print()
 
-def greet(name):
-    return "Hello, " + name
-
-print(greet("Jazzy"))
+def greet():
+    print("Hello, Welcome to Python Programming")
+greet()
 
 
 
